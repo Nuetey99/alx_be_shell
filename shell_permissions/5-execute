@@ -1,2 +1,2 @@
 #!/bin/bash
- filename="hello" if [ . -f "$filename" ] then chmod u+x "$filename" fi
+ chmod u+x hello
